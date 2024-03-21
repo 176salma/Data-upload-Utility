@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dd060a3d4741c610fe65e624336d4358" extends="sys_import_set_row" label="department data" max_length="40" name="x_1284812_data_upl_department_data" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Business unit" label="Business unit" max_length="40" name="u_business_unit" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Company" label="Company" max_length="40" name="u_company" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost center" label="Cost center" max_length="40" name="u_cost_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Department head" label="Department head" max_length="40" name="u_department_head" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=Head count" label="Head count" max_length="40" name="u_head_count" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Primary contact" label="Primary contact" max_length="40" name="u_primary_contact" type="string"/>
+    </element>
+</database>

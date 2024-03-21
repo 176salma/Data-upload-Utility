@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dd9ddab347700210fe65e624336d43b0" label="DUU Contract" max_length="40" name="x_1284812_data_upl_duu_contract" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="End date" max_length="40" name="u_end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Start date" max_length="40" name="u_start_date" type="glide_date"/>
+        <element attributes="encode_utf8=false" label="Vendor" max_length="32" name="u_vendor" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_vendor"/>
+        </index>
+    </element>
+</database>

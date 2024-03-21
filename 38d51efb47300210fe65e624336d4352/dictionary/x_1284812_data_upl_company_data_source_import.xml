@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="6e6c1c064789c610fe65e624336d4381" extends="sys_import_set_row" label="Company data source" max_length="40" name="x_1284812_data_upl_company_data_source_import" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Business owner" label="Business owner" max_length="40" name="u_business_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=City" label="City" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Contact" label="Contact" max_length="40" name="u_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Coordinates retrieved on" label="Coordinates retrieved on" max_length="40" name="u_coordinates_retrieved_on" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Country" label="Country" max_length="40" name="u_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Customer" label="Customer" max_length="40" name="u_customer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DUNS number" label="DUNS number" max_length="40" name="u_duns_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Engagement risk rating" label="Engagement risk rating" max_length="40" name="u_engagement_risk_rating" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=External risk rating" label="External risk rating" max_length="40" name="u_external_risk_rating" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fax phone" label="Fax phone" max_length="40" name="u_fax_phone" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fiscal year" label="Fiscal year" max_length="40" name="u_fiscal_year" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Fourth-party" label="Fourth-party" max_length="40" name="u_fourth_party" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Industry" label="Industry" max_length="40" name="u_industry" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="40" name="u_manufacturer" type="string"/>
+        <element attributes="import_attribute_name=Market cap" label="Market cap" max_length="40" name="u_market_cap" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes" label="Notes" max_length="40" name="u_notes" type="string"/>
+        <element attributes="import_attribute_name=Number of employees" label="Number of employees" max_length="40" name="u_number_of_employees" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Parent" label="Parent" max_length="40" name="u_parent" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Phone" label="Phone" max_length="40" name="u_phone" type="string"/>
+        <element attributes="import_attribute_name=Profits" label="Profits" max_length="40" name="u_profits" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Publicly traded" label="Publicly traded" max_length="40" name="u_publicly_traded" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Rank tier" label="Rank tier" max_length="40" name="u_rank_tier" type="string"/>
+        <element attributes="import_attribute_name=Revenue per year" label="Revenue per year" max_length="40" name="u_revenue_per_year" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Risk tier" label="Risk tier" max_length="40" name="u_risk_tier" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State / Province" label="State / Province" max_length="40" name="u_state___province" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stock price" label="Stock price" max_length="40" name="u_stock_price" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Street" label="Street" max_length="40" name="u_street" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Supplier" label="Supplier" max_length="40" name="u_supplier" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Tags" label="Tags" max_length="40" name="u_tags" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vendor" label="Vendor" max_length="40" name="u_vendor" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vendor manager" label="Vendor manager" max_length="40" name="u_vendor_manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vendor state" label="Vendor state" max_length="40" name="u_vendor_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vendor tier" label="Vendor tier" max_length="40" name="u_vendor_tier" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Vendor type" label="Vendor type" max_length="40" name="u_vendor_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Website" label="Website" max_length="40" name="u_website" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Zip / Postal code" label="Zip / Postal code" max_length="40" name="u_zip___postal_code" type="string"/>
+    </element>
+</database>

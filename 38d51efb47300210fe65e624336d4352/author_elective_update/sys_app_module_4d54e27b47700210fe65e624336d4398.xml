@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="DUU Vendor">8954e23b47700210fe65e624336d438d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>DUU Vendors</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1284812_data_upl_duu_vendor</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_1284812_data_upl.duu_vendor_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 14:49:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d54e27b47700210fe65e624336d4398</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DUU Vendors</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Data Upload Utility" source="x_1284812_data_upl">38d51efb47300210fe65e624336d4352</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Data Upload Utility">38d51efb47300210fe65e624336d4352</sys_scope>
+        <sys_update_name>sys_app_module_4d54e27b47700210fe65e624336d4398</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 14:49:57</sys_updated_on>
+        <timeline_page/>
+        <title>DUU Vendors</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Data Upload Utility">38d51efb47300210fe65e624336d4352</application>
+        <file_path/>
+        <instance_id>e8ed08b7db65695c9831ac44d496199d</instance_id>
+        <instance_name>dev166306</instance_name>
+        <name>sys_app_module_4d54e27b47700210fe65e624336d4398</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="DUU Vendor">8954e23b47700210fe65e624336d438d</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>DUU Vendors</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1284812_data_upl_duu_vendor</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_1284812_data_upl.duu_vendor_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-03-14 14:49:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4d54e27b47700210fe65e624336d4398</sys_id><sys_mod_count>0</sys_mod_count><sys_name>DUU Vendors</sys_name><sys_overrides/><sys_package display_value="Data Upload Utility" source="x_1284812_data_upl">38d51efb47300210fe65e624336d4352</sys_package><sys_policy/><sys_scope display_value="Data Upload Utility">38d51efb47300210fe65e624336d4352</sys_scope><sys_update_name>sys_app_module_4d54e27b47700210fe65e624336d4398</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-03-14 14:49:57</sys_updated_on><timeline_page/><title>DUU Vendors</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1772964</payload_hash>
+        <record_name>DUU Vendors</record_name>
+        <reverted_from/>
+        <source>f4d51efb47300210fe65e624336d4354</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 14:49:57</sys_created_on>
+        <sys_id>0154e27b47700210fe65e624336d439b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18e3d70f81d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 14:49:57</sys_updated_on>
+        <type>Module</type>
+        <update_guid>4954e27b687002101300db93090fe89a</update_guid>
+        <update_guid_history>4954e27b687002101300db93090fe89a:1772964</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DUU Vendors">dfe46e7b47700210fe65e624336d4350</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-14 14:52:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2f303da2e5fc4cbc8a4de86747037ff9</sys_id>
+        <sys_metadata>4d54e27b47700210fe65e624336d4398</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DUU Vendors</sys_name>
+        <sys_package display_value="Data Upload Utility" source="x_1284812_data_upl">38d51efb47300210fe65e624336d4352</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Data Upload Utility">38d51efb47300210fe65e624336d4352</sys_scope>
+        <sys_scope_delete display_value="">9f660c7012b04da8bcdf48ae5213e9a4</sys_scope_delete>
+        <sys_update_name>sys_app_module_4d54e27b47700210fe65e624336d4398</sys_update_name>
+        <sys_update_version display_value="sys_app_module_4d54e27b47700210fe65e624336d4398">0154e27b47700210fe65e624336d439b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-14 14:52:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
